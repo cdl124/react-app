@@ -1,0 +1,13 @@
+background {
+  color: gainsboro;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: steelblue;
+  font-family: Helvetica, sans-serif;
+}
+
+p {
+  color: #333;
+  font-family: Helvetica, sans-serif;
+}
